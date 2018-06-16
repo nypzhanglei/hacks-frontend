@@ -1,0 +1,50 @@
+.slider-banner h3{
+	color: #FFF;
+	font-size: 60px;
+	text-shadow: 2px 1px 1px #000000;
+	font-weight:bolder;
+}
+.banner {
+	position:relative;
+	width:100%;
+	overflow:hidden;
+	/* height: 750px; */
+}
+.banner-text {
+	padding-top: 45%;
+}
+.banner-text h1 {
+	color: #000000;
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.banner-text p {
+	color: #000;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	margin-top: 30px;
+	margin-bottom: 80px;
+}
+
+.banner_area {
+  min-height: 680px;
+  background: linear-gradient(to right, rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("../image/home-bg.jpg");
+  background-size: cover; }
+
+.banner_content {
+  color: #fff; }
+  .banner_content h6 {
+    font-size: 14px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    font-weight: 400; }
+  .banner_content h1 {
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 700;
+    padding: 8px 0px 20px; }
+  .banner_content .btn_hover_two {
+    margin-top: 25px; }
